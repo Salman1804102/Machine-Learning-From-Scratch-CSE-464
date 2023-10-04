@@ -1,0 +1,16 @@
+Temperature,Outlook,Humidity,Windy,Play?
+hot,sunny,60,FALSE,no
+hot,sunny,70,TRUE,no
+hot,overcast,80,FALSE,yes
+cool,rain,40,FALSE,yes
+cool,overcast,30,TRUE,yes
+mild,sunny,100,FALSE,no
+cool,sunny,20,FALSE,yes
+mild,rain,45,FALSE,yes
+mild,sunny,25,TRUE,yes
+mild,overcast,85,TRUE,yes
+hot,overcast,20,FALSE,yes
+mild,rain,95,TRUE,no
+cool,rain,35,TRUE,no
+mild,rain,55,FALSE,yes
+cool,overcast,80,TRUE,no
